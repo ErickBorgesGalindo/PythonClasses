@@ -26,7 +26,7 @@ El archivo **#_BotDcrd.ipynb** corren en un entorno de replit.
 
 ## Construido con 🛠️
 
-<a href=\"https://colab.research.google.com/" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Colaboratoy\"/></a>
+"<a href=\"https://colab.research.google.com/" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Colaboratoy\"/></a>"
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
