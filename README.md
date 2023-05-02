@@ -26,9 +26,9 @@ El archivo **#_BotDcrd.ipynb** corren en un entorno de replit.
 
 ## Construido con 🛠️
 
-* ![Colaboratory](https://colab.research.google.com/assets/colab-badge.svg)
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - Lenguaje de programación.
+![Colaboratory](https://colab.research.google.com/assets/colab-badge.svg) - Entorno principal de desarrollo.
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) - Entorno de desarrollo secundario.
 
 ## Contribuyendo 🖇️
 
