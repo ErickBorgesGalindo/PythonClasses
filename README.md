@@ -43,6 +43,7 @@ Para realizar este curso se tomaron como bases los videos de:
 ## Autores ✒️
 
 * **Ing. Erick Alejandro Borges Galindo** - *Trabajo Inicial* - [ErickBorges](https://github.com/ErickBorgesGalindo)
+* **El grupo de 2° Cuatrimestre de ISC de la Universidad de Oriente 2023** - *Desasrrollo y participación* - [2° Cuatrimestre]
 
 ## Expresiones de Gratitud 🎁
 
